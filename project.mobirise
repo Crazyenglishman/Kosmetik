@@ -44,14 +44,15 @@
       }
     ],
     "uniqCompNum": 26,
-    "versionPublish": "4.8.4"
+    "versionPublish": "4.8.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Welcome to  Kosmetiks Lindenhöhe",
+        "meta_descr": "Kosmetiks Lindenhöhe\n \nYounger, better, healthier skin , sensual massages , charming make-up and body care at its best. That and various extras with the best products of Jean d'Arcel awaits you with us.\nmake an appointment\nA warm welcome",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
